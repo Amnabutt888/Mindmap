@@ -1,0 +1,49 @@
+{
+    "sections": [
+        {
+            "title": "Origin",
+            "topics": [
+                {
+                    "title": "Latin Root",
+                    "points": [
+                        "to share"
+                    ]
+                }
+            ]
+        },
+        {
+            "title": "Meaning",
+            "topics": [
+                {
+                    "title": "Sharing Info",
+                    "points": [
+                        "facts",
+                        "ideas",
+                        "thoughts",
+                        "feelings",
+                        "needs"
+                    ]
+                }
+            ]
+        },
+        {
+            "title": "Process",
+            "topics": [
+                {
+                    "title": "Activities",
+                    "points": [
+                        "speaking",
+                        "listening",
+                        "understanding"
+                    ]
+                },
+                {
+                    "title": "Continuity",
+                    "points": [
+                        "continuous"
+                    ]
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,64 @@
+{
+    "sections": [
+        {
+            "title": "Definition",
+            "topics": [
+                {
+                    "title": "Word Origin",
+                    "points": [
+                        "Latin Communico",
+                        "means to share"
+                    ]
+                },
+                {
+                    "title": "Core Meaning",
+                    "points": [
+                        "process of sharing",
+                        "info exchange"
+                    ]
+                }
+            ]
+        },
+        {
+            "title": "Content Types",
+            "topics": [
+                {
+                    "title": "Shared Items",
+                    "points": [
+                        "facts",
+                        "ideas",
+                        "thoughts",
+                        "feelings",
+                        "needs"
+                    ]
+                }
+            ]
+        },
+        {
+            "title": "Process Steps",
+            "topics": [
+                {
+                    "title": "Key Actions",
+                    "points": [
+                        "speaking",
+                        "listening",
+                        "understanding"
+                    ]
+                }
+            ]
+        },
+        {
+            "title": "Characteristics",
+            "topics": [
+                {
+                    "title": "Activity Traits",
+                    "points": [
+                        "systematic",
+                        "continuous",
+                        "bidirectional"
+                    ]
+                }
+            ]
+        }
+    ]
+}

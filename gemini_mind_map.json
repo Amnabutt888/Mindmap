@@ -1,0 +1,45 @@
+{
+    "sections": [
+        {
+            "title": "Foundations",
+            "topics": [
+                {
+                    "title": "Etymology",
+                    "points": [
+                        "Latin root Communico",
+                        "Means to share"
+                    ]
+                },
+                {
+                    "title": "Shared Information",
+                    "points": [
+                        "Facts and ideas",
+                        "Thoughts and feelings",
+                        "Personal needs"
+                    ]
+                }
+            ]
+        },
+        {
+            "title": "Process Nature",
+            "topics": [
+                {
+                    "title": "Key Characteristics",
+                    "points": [
+                        "Systematic process",
+                        "Continuous activity",
+                        "Mutual understanding"
+                    ]
+                },
+                {
+                    "title": "Core Components",
+                    "points": [
+                        "Speaking",
+                        "Listening",
+                        "Understanding"
+                    ]
+                }
+            ]
+        }
+    ]
+}

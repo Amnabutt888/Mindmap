@@ -1,0 +1,85 @@
+{
+    "sections": [
+        {
+            "title": "Presentation Types",
+            "topics": [
+                {
+                    "title": "Real-Time",
+                    "points": [
+                        "Immediate results",
+                        "Financial brainstorming",
+                        "Software training"
+                    ]
+                },
+                {
+                    "title": "Prepared",
+                    "points": [
+                        "Simple text slides",
+                        "Multimedia productions",
+                        "Portable projectors"
+                    ]
+                }
+            ]
+        },
+        {
+            "title": "Key Benefits",
+            "topics": [
+                {
+                    "title": "Cost Efficiency",
+                    "points": [
+                        "No supply costs",
+                        "Low production costs"
+                    ]
+                },
+                {
+                    "title": "Flexibility",
+                    "points": [
+                        "Real-time data",
+                        "Last-minute changes",
+                        "Remote transmission"
+                    ]
+                }
+            ]
+        },
+        {
+            "title": "Main Limitations",
+            "topics": [
+                {
+                    "title": "Technical Requirements",
+                    "points": [
+                        "Expensive equipment",
+                        "Requires computer skills",
+                        "Equipment dependency"
+                    ]
+                },
+                {
+                    "title": "Environment",
+                    "points": [
+                        "Darkened room required"
+                    ]
+                }
+            ]
+        },
+        {
+            "title": "Helpful Hints",
+            "topics": [
+                {
+                    "title": "Equipment Preparation",
+                    "points": [
+                        "Check equipment early",
+                        "Backup media files",
+                        "Use runtime version"
+                    ]
+                },
+                {
+                    "title": "Presentation Delivery",
+                    "points": [
+                        "Use remote control",
+                        "Use laser pointer",
+                        "Vary presentation activities"
+                    ]
+                }
+            ]
+        }
+    ]
+}

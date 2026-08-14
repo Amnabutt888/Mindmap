@@ -1,0 +1,155 @@
+{
+    "sections": [
+        {
+            "title": "Policy Basics",
+            "topics": [
+                {
+                    "title": "Guideline",
+                    "points": [
+                        "General recommendation",
+                        "Not mandatory",
+                        "Elaborate SOP"
+                    ]
+                },
+                {
+                    "title": "Standard",
+                    "points": [
+                        "Specific mandatory",
+                        "Asset behavior",
+                        "Yardstick policy"
+                    ]
+                },
+                {
+                    "title": "In Practice",
+                    "points": [
+                        "Single document",
+                        "Sub-policies",
+                        "Mandatory"
+                    ]
+                },
+                {
+                    "title": "Examples",
+                    "points": [
+                        "InfoSec policy",
+                        "Admin password",
+                        "User ID",
+                        "Vulnerability",
+                        "Social engineering"
+                    ]
+                }
+            ]
+        },
+        {
+            "title": "Program Steps",
+            "topics": [
+                {
+                    "title": "Program Definition",
+                    "points": [
+                        "Group projects",
+                        "Coordinated",
+                        "Benefits",
+                        "Resources",
+                        "Approvals",
+                        "Communication",
+                        "Timeline",
+                        "Monitoring",
+                        "SOP develop"
+                    ]
+                },
+                {
+                    "title": "Step 4 Controls",
+                    "points": [
+                        "Pilot",
+                        "Test",
+                        "Change",
+                        "Implement",
+                        "Rollback",
+                        "SOP maintain"
+                    ]
+                },
+                {
+                    "title": "Step 5 Validate",
+                    "points": [
+                        "Security review",
+                        "Coverage",
+                        "SOP checklist"
+                    ]
+                },
+                {
+                    "title": "Step 6 Accreditation",
+                    "points": [
+                        "Review process",
+                        "Monitoring",
+                        "Awareness",
+                        "Accreditation"
+                    ]
+                },
+                {
+                    "title": "Step 7 Monitor",
+                    "points": [
+                        "KPIs",
+                        "Reporting",
+                        "Review",
+                        "Incident",
+                        "Audit"
+                    ]
+                }
+            ]
+        },
+        {
+            "title": "Management Commitment",
+            "topics": [
+                {
+                    "title": "Definition",
+                    "points": [
+                        "Intent",
+                        "Actions",
+                        "Resources"
+                    ]
+                },
+                {
+                    "title": "ISO Clause",
+                    "points": [
+                        "Policy",
+                        "Integration",
+                        "Resources",
+                        "Communicate",
+                        "Outcomes",
+                        "Directing",
+                        "Improvement",
+                        "Support"
+                    ]
+                },
+                {
+                    "title": "Tone Top",
+                    "points": [
+                        "Leadership watch",
+                        "Culture",
+                        "Threshold"
+                    ]
+                },
+                {
+                    "title": "In Practice",
+                    "points": [
+                        "Policy",
+                        "CISO",
+                        "Committee",
+                        "Reviews"
+                    ]
+                }
+            ]
+        },
+        {
+            "title": "Security Responsibility",
+            "topics": [
+                {
+                    "title": "Default View",
+                    "points": [
+                        "Security person",
+                        "After-thought"
+                    ]
+                }
+            ]
+        }
+    ]
+}
