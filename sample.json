@@ -1,0 +1,22 @@
+{
+  "sections": [
+    {
+      "title": "Section Name",
+      "topics": [
+        {
+          "title": "Topic Name",
+          "points": ["point 1", "point 2"]
+        }
+      ]
+    },
+        {
+      "title": "Section Name",
+      "topics": [
+        {
+          "title": "Topic Name",
+          "points": ["point 1", "point 2"]
+        }
+      ]
+    }
+  ]
+}
